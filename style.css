@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    margin: 0 auto;
+ }
+
+button, label{
+    display:list-item;
+    width: 160px;
+    height: 70px;
+    word-wrap: break-word;
+    text-align: center;
+    white-space: normal;
+    background-color: #FFFFFF;
+}
+
+ #btnGroupDrop2{
+    white-space: normal;
+  }
+
+  img{
+    width: 240px;
+  }
+
+
