@@ -12,8 +12,8 @@ body{
 
 button, label{
     display:list-item;
-    width: 120px;
-    height: 60px;
+    width: 160px;
+    height: 70px;
     word-wrap: break-word;
     text-align:justify ;
     background-color: #FFFFFF;
